@@ -1,4 +1,4 @@
-import {deJoaoParaMaria,deMariaParaJoao,getMaria,getJoao,setMaria,setJoao} from "/src/joaoEMaria.js";
+import {deJoaoParaMaria,deMariaParaJoao,getMaria,getJoao,setMaria,setJoao} from "../src/joaoEMaria.js";
 
 //define maria e joao
 let maria= getMaria();
